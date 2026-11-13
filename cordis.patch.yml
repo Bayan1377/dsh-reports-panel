@@ -1,0 +1,4 @@
+# dsh bundle patch: вставляет плагин «Отчёты» в стек слоёв профиля.
+- insert:
+    - id: reports-panel
+      name: 'dsh-reports-panel'
