@@ -1,6 +1,6 @@
 {
   "name": "dsh-reports-panel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reports feed in the DSH left sidebar: files from the «Отчёты» folder of the session workspace, opened with one click",
   "type": "module",
   "main": "lib/index.js",
@@ -42,6 +42,14 @@
     "workspace",
     "feed"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayan1377/dsh-reports-panel.git"
+  },
+  "homepage": "https://github.com/Bayan1377/dsh-reports-panel#readme",
+  "bugs": {
+    "url": "https://github.com/Bayan1377/dsh-reports-panel/issues"
+  },
   "author": "bayan1377",
   "license": "MIT"
 }
